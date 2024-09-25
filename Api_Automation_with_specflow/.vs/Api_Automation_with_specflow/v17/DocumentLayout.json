@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\tddbddframeworkwithfitnesse\\Specflow_Api_Spotify_Demo\\Api_Automation_with_specflow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC3DCB2-5D35-483A-806D-E5EA2AA2E66A}|Api_Automation_with_specflow\\Api_Automation_with_specflow.csproj|d:\\tddbddframeworkwithfitnesse\\specflow_api_spotify_demo\\api_automation_with_specflow\\api_automation_with_specflow\\api_automation_with_specflow.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7EC3DCB2-5D35-483A-806D-E5EA2AA2E66A}|Api_Automation_with_specflow\\Api_Automation_with_specflow.csproj|solutionrelative:api_automation_with_specflow\\api_automation_with_specflow.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC3DCB2-5D35-483A-806D-E5EA2AA2E66A}|Api_Automation_with_specflow\\Api_Automation_with_specflow.csproj|d:\\tddbddframeworkwithfitnesse\\specflow_api_spotify_demo\\api_automation_with_specflow\\api_automation_with_specflow\\stepdefinitions\\createplayliststepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC3DCB2-5D35-483A-806D-E5EA2AA2E66A}|Api_Automation_with_specflow\\Api_Automation_with_specflow.csproj|solutionrelative:api_automation_with_specflow\\stepdefinitions\\createplayliststepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC3DCB2-5D35-483A-806D-E5EA2AA2E66A}|Api_Automation_with_specflow\\Api_Automation_with_specflow.csproj|d:\\tddbddframeworkwithfitnesse\\specflow_api_spotify_demo\\api_automation_with_specflow\\api_automation_with_specflow\\utils\\tokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC3DCB2-5D35-483A-806D-E5EA2AA2E66A}|Api_Automation_with_specflow\\Api_Automation_with_specflow.csproj|solutionrelative:api_automation_with_specflow\\utils\\tokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC3DCB2-5D35-483A-806D-E5EA2AA2E66A}|Api_Automation_with_specflow\\Api_Automation_with_specflow.csproj|d:\\tddbddframeworkwithfitnesse\\specflow_api_spotify_demo\\api_automation_with_specflow\\api_automation_with_specflow\\utils\\configreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC3DCB2-5D35-483A-806D-E5EA2AA2E66A}|Api_Automation_with_specflow\\Api_Automation_with_specflow.csproj|solutionrelative:api_automation_with_specflow\\utils\\configreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC3DCB2-5D35-483A-806D-E5EA2AA2E66A}|Api_Automation_with_specflow\\Api_Automation_with_specflow.csproj|d:\\tddbddframeworkwithfitnesse\\specflow_api_spotify_demo\\api_automation_with_specflow\\api_automation_with_specflow\\utils\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC3DCB2-5D35-483A-806D-E5EA2AA2E66A}|Api_Automation_with_specflow\\Api_Automation_with_specflow.csproj|solutionrelative:api_automation_with_specflow\\utils\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC3DCB2-5D35-483A-806D-E5EA2AA2E66A}|Api_Automation_with_specflow\\Api_Automation_with_specflow.csproj|d:\\tddbddframeworkwithfitnesse\\specflow_api_spotify_demo\\api_automation_with_specflow\\api_automation_with_specflow\\specflow.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7EC3DCB2-5D35-483A-806D-E5EA2AA2E66A}|Api_Automation_with_specflow\\Api_Automation_with_specflow.csproj|solutionrelative:api_automation_with_specflow\\specflow.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC3DCB2-5D35-483A-806D-E5EA2AA2E66A}|Api_Automation_with_specflow\\Api_Automation_with_specflow.csproj|d:\\tddbddframeworkwithfitnesse\\specflow_api_spotify_demo\\api_automation_with_specflow\\api_automation_with_specflow\\stepdefinitions\\getplayliststepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC3DCB2-5D35-483A-806D-E5EA2AA2E66A}|Api_Automation_with_specflow\\Api_Automation_with_specflow.csproj|solutionrelative:api_automation_with_specflow\\stepdefinitions\\getplayliststepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC3DCB2-5D35-483A-806D-E5EA2AA2E66A}|Api_Automation_with_specflow\\Api_Automation_with_specflow.csproj|d:\\tddbddframeworkwithfitnesse\\specflow_api_spotify_demo\\api_automation_with_specflow\\api_automation_with_specflow\\domainobjects\\getplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC3DCB2-5D35-483A-806D-E5EA2AA2E66A}|Api_Automation_with_specflow\\Api_Automation_with_specflow.csproj|solutionrelative:api_automation_with_specflow\\domainobjects\\getplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC3DCB2-5D35-483A-806D-E5EA2AA2E66A}|Api_Automation_with_specflow\\Api_Automation_with_specflow.csproj|d:\\tddbddframeworkwithfitnesse\\specflow_api_spotify_demo\\api_automation_with_specflow\\api_automation_with_specflow\\domainobjects\\spotifyplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC3DCB2-5D35-483A-806D-E5EA2AA2E66A}|Api_Automation_with_specflow\\Api_Automation_with_specflow.csproj|solutionrelative:api_automation_with_specflow\\domainobjects\\spotifyplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC3DCB2-5D35-483A-806D-E5EA2AA2E66A}|Api_Automation_with_specflow\\Api_Automation_with_specflow.csproj|d:\\tddbddframeworkwithfitnesse\\specflow_api_spotify_demo\\api_automation_with_specflow\\api_automation_with_specflow\\features\\getplaylist.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7EC3DCB2-5D35-483A-806D-E5EA2AA2E66A}|Api_Automation_with_specflow\\Api_Automation_with_specflow.csproj|solutionrelative:api_automation_with_specflow\\features\\getplaylist.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC3DCB2-5D35-483A-806D-E5EA2AA2E66A}|Api_Automation_with_specflow\\Api_Automation_with_specflow.csproj|d:\\tddbddframeworkwithfitnesse\\specflow_api_spotify_demo\\api_automation_with_specflow\\api_automation_with_specflow\\hooks\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC3DCB2-5D35-483A-806D-E5EA2AA2E66A}|Api_Automation_with_specflow\\Api_Automation_with_specflow.csproj|solutionrelative:api_automation_with_specflow\\hooks\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC3DCB2-5D35-483A-806D-E5EA2AA2E66A}|Api_Automation_with_specflow\\Api_Automation_with_specflow.csproj|d:\\tddbddframeworkwithfitnesse\\specflow_api_spotify_demo\\api_automation_with_specflow\\api_automation_with_specflow\\features\\createplaylist.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7EC3DCB2-5D35-483A-806D-E5EA2AA2E66A}|Api_Automation_with_specflow\\Api_Automation_with_specflow.csproj|solutionrelative:api_automation_with_specflow\\features\\createplaylist.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC3DCB2-5D35-483A-806D-E5EA2AA2E66A}|Api_Automation_with_specflow\\Api_Automation_with_specflow.csproj|d:\\tddbddframeworkwithfitnesse\\specflow_api_spotify_demo\\api_automation_with_specflow\\api_automation_with_specflow\\utils\\spotifyapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC3DCB2-5D35-483A-806D-E5EA2AA2E66A}|Api_Automation_with_specflow\\Api_Automation_with_specflow.csproj|solutionrelative:api_automation_with_specflow\\utils\\spotifyapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Api_Automation_with_specflow",
+              "DocumentMoniker": "D:\\tddbddframeworkwithfitnesse\\Specflow_Api_Spotify_Demo\\Api_Automation_with_specflow\\Api_Automation_with_specflow\\Api_Automation_with_specflow.csproj",
+              "RelativeDocumentMoniker": "Api_Automation_with_specflow\\Api_Automation_with_specflow.csproj",
+              "ToolTip": "D:\\tddbddframeworkwithfitnesse\\Specflow_Api_Spotify_Demo\\Api_Automation_with_specflow\\Api_Automation_with_specflow\\Api_Automation_with_specflow.csproj",
+              "RelativeToolTip": "Api_Automation_with_specflow\\Api_Automation_with_specflow.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-25T04:35:54.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TokenManager.cs",
+              "DocumentMoniker": "D:\\tddbddframeworkwithfitnesse\\Specflow_Api_Spotify_Demo\\Api_Automation_with_specflow\\Api_Automation_with_specflow\\utils\\TokenManager.cs",
+              "RelativeDocumentMoniker": "Api_Automation_with_specflow\\utils\\TokenManager.cs",
+              "ToolTip": "D:\\tddbddframeworkwithfitnesse\\Specflow_Api_Spotify_Demo\\Api_Automation_with_specflow\\Api_Automation_with_specflow\\utils\\TokenManager.cs",
+              "RelativeToolTip": "Api_Automation_with_specflow\\utils\\TokenManager.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T04:06:53.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConfigurationService.cs",
+              "DocumentMoniker": "D:\\tddbddframeworkwithfitnesse\\Specflow_Api_Spotify_Demo\\Api_Automation_with_specflow\\Api_Automation_with_specflow\\utils\\ConfigurationService.cs",
+              "RelativeDocumentMoniker": "Api_Automation_with_specflow\\utils\\ConfigurationService.cs",
+              "ToolTip": "D:\\tddbddframeworkwithfitnesse\\Specflow_Api_Spotify_Demo\\Api_Automation_with_specflow\\Api_Automation_with_specflow\\utils\\ConfigurationService.cs",
+              "RelativeToolTip": "Api_Automation_with_specflow\\utils\\ConfigurationService.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T04:06:39.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "specflow.json",
+              "DocumentMoniker": "D:\\tddbddframeworkwithfitnesse\\Specflow_Api_Spotify_Demo\\Api_Automation_with_specflow\\Api_Automation_with_specflow\\specflow.json",
+              "RelativeDocumentMoniker": "Api_Automation_with_specflow\\specflow.json",
+              "ToolTip": "D:\\tddbddframeworkwithfitnesse\\Specflow_Api_Spotify_Demo\\Api_Automation_with_specflow\\Api_Automation_with_specflow\\specflow.json",
+              "RelativeToolTip": "Api_Automation_with_specflow\\specflow.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-25T04:06:09.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetPlaylist.cs",
+              "DocumentMoniker": "D:\\tddbddframeworkwithfitnesse\\Specflow_Api_Spotify_Demo\\Api_Automation_with_specflow\\Api_Automation_with_specflow\\DomainObjects\\GetPlaylist.cs",
+              "RelativeDocumentMoniker": "Api_Automation_with_specflow\\DomainObjects\\GetPlaylist.cs",
+              "ToolTip": "D:\\tddbddframeworkwithfitnesse\\Specflow_Api_Spotify_Demo\\Api_Automation_with_specflow\\Api_Automation_with_specflow\\DomainObjects\\GetPlaylist.cs",
+              "RelativeToolTip": "Api_Automation_with_specflow\\DomainObjects\\GetPlaylist.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAA7wDoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T03:39:30.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreatePlaylistStepDefinitions.cs",
+              "DocumentMoniker": "D:\\tddbddframeworkwithfitnesse\\Specflow_Api_Spotify_Demo\\Api_Automation_with_specflow\\Api_Automation_with_specflow\\StepDefinitions\\CreatePlaylistStepDefinitions.cs",
+              "RelativeDocumentMoniker": "Api_Automation_with_specflow\\StepDefinitions\\CreatePlaylistStepDefinitions.cs",
+              "ToolTip": "D:\\tddbddframeworkwithfitnesse\\Specflow_Api_Spotify_Demo\\Api_Automation_with_specflow\\Api_Automation_with_specflow\\StepDefinitions\\CreatePlaylistStepDefinitions.cs",
+              "RelativeToolTip": "Api_Automation_with_specflow\\StepDefinitions\\CreatePlaylistStepDefinitions.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T22:41:58.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetPlaylistStepDefinitions.cs",
+              "DocumentMoniker": "D:\\tddbddframeworkwithfitnesse\\Specflow_Api_Spotify_Demo\\Api_Automation_with_specflow\\Api_Automation_with_specflow\\StepDefinitions\\GetPlaylistStepDefinitions.cs",
+              "RelativeDocumentMoniker": "Api_Automation_with_specflow\\StepDefinitions\\GetPlaylistStepDefinitions.cs",
+              "ToolTip": "D:\\tddbddframeworkwithfitnesse\\Specflow_Api_Spotify_Demo\\Api_Automation_with_specflow\\Api_Automation_with_specflow\\StepDefinitions\\GetPlaylistStepDefinitions.cs",
+              "RelativeToolTip": "Api_Automation_with_specflow\\StepDefinitions\\GetPlaylistStepDefinitions.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAA3wD8AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:06:58.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConfigReader.cs",
+              "DocumentMoniker": "D:\\tddbddframeworkwithfitnesse\\Specflow_Api_Spotify_Demo\\Api_Automation_with_specflow\\Api_Automation_with_specflow\\utils\\ConfigReader.cs",
+              "RelativeDocumentMoniker": "Api_Automation_with_specflow\\utils\\ConfigReader.cs",
+              "ToolTip": "D:\\tddbddframeworkwithfitnesse\\Specflow_Api_Spotify_Demo\\Api_Automation_with_specflow\\Api_Automation_with_specflow\\utils\\ConfigReader.cs",
+              "RelativeToolTip": "Api_Automation_with_specflow\\utils\\ConfigReader.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwBYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:22:38.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SpotifyPlaylist.cs",
+              "DocumentMoniker": "D:\\tddbddframeworkwithfitnesse\\Specflow_Api_Spotify_Demo\\Api_Automation_with_specflow\\Api_Automation_with_specflow\\DomainObjects\\SpotifyPlaylist.cs",
+              "RelativeDocumentMoniker": "Api_Automation_with_specflow\\DomainObjects\\SpotifyPlaylist.cs",
+              "ToolTip": "D:\\tddbddframeworkwithfitnesse\\Specflow_Api_Spotify_Demo\\Api_Automation_with_specflow\\Api_Automation_with_specflow\\DomainObjects\\SpotifyPlaylist.cs",
+              "RelativeToolTip": "Api_Automation_with_specflow\\DomainObjects\\SpotifyPlaylist.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T03:50:06.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Hooks.cs",
+              "DocumentMoniker": "D:\\tddbddframeworkwithfitnesse\\Specflow_Api_Spotify_Demo\\Api_Automation_with_specflow\\Api_Automation_with_specflow\\Hooks\\Hooks.cs",
+              "RelativeDocumentMoniker": "Api_Automation_with_specflow\\Hooks\\Hooks.cs",
+              "ToolTip": "D:\\tddbddframeworkwithfitnesse\\Specflow_Api_Spotify_Demo\\Api_Automation_with_specflow\\Api_Automation_with_specflow\\Hooks\\Hooks.cs",
+              "RelativeToolTip": "Api_Automation_with_specflow\\Hooks\\Hooks.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T02:34:24.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreatePlaylist.feature",
+              "DocumentMoniker": "D:\\tddbddframeworkwithfitnesse\\Specflow_Api_Spotify_Demo\\Api_Automation_with_specflow\\Api_Automation_with_specflow\\Features\\CreatePlaylist.feature",
+              "RelativeDocumentMoniker": "Api_Automation_with_specflow\\Features\\CreatePlaylist.feature",
+              "ToolTip": "D:\\tddbddframeworkwithfitnesse\\Specflow_Api_Spotify_Demo\\Api_Automation_with_specflow\\Api_Automation_with_specflow\\Features\\CreatePlaylist.feature",
+              "RelativeToolTip": "Api_Automation_with_specflow\\Features\\CreatePlaylist.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABDAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQWSURBVDhPdVRLb1tFFP7mPnztaydObOcJcWolhDRpVURQAyWNWgItsGlZ0YoFEgseKxCCFWv4AWzYIxAgQVRVlSo1En1IoDRtSUEpRFWUd9I4DztOff269r18c\u002B0oSRGf9dkzZ2Y\u002BnznnzBH4P3zRGMARXxtHcbKZdMg1uFjCVCmJr9IFzg/Cdd2Dgm\u002BQnylBTISH0Kydhakco0WKGXKZKFDwEfLOJObLV/BN5h42nXxtzYNa\u002BwVeNBScNRPoMs5BNd6FppwUEM8qQmlz4UYBEVGFGhNCtLo6vW5UutGglNDvS8GvZLFc9mT2BF8zWzFgjiCjvwdXDAc1M9JX36MnQp0ia\u002BfQZrbgWEOf8KuGb7OYikARXYjrIXTrj7DjJHG/VJQyVcGYIvC8McwNFzkbUaCorf5mXIifx\u002BmWE1jMrWAwOoC34\u002BcYJuBu\u002Bk95SiEPkRmslZcZglVYrmcEPgqbGPSf4ui04F/XayHYbhl\u002BNYBOM46j4T6ciL2AOtrLtO\u002BDTp7BkH8IH4c9g\u002BZ9G6IPmkj4FX/ombqE\u002BLT3Q6zk1rBgLeO3jdtYyK9gPrcIh\u002B7NZhe8I8RuQp/msJszxhlbVQ\u002BBLrKpgopquzbXBNoDLUjbGUykJykyjzup\u002BxjfuoclXv8JBJj5ZhYVhatxkIiQpu2UsVFMYWLzDyQLG8iWLY9WOYd0aRu2U0LMiKA7lEDMFwWzXj0NBMmYHOwKepCeyW8Zv216Z9kWr\u002BlwEyPLT6PRgJebjuNi51s42TQIkzGuQep44dsVXCctUwugP9yDT3rex6stwzgUiiOshRHW6xE1GuEXfnQE2vFm6wj3fIAIbTXI4k7LQdXnVwIKIuoAX87hfKUokoV13FwfR4f5FE41vQSfZuB49DnPq8cMwZXVa5hgTKcy0yg5JabdHUfaGcWveavq4c38Iubsv1kSy\u002BvFTVxekQcmIT3ua\u002BiBrugIqkGWz2Hv6tfXf8fY2g0vtsQyZu0ZaqTkpOrhbLmIuOZHlx7lM0sUnILuU3TRHmhFzsnhFr3N2DsIaUHMsXymMv\u002BAe1jisijdG7hTuopfrIdSaq85vBOqxxnzdejic1r7afGxLoWqKEJ6ItPiU31MUoXZtinmdZ8k7/wlruV/xvfZDSmz95YXyzYsZw1HjQc8LYu0oeJWZCnVEud6YrTJiRTLkF/jp\u002BxVjLHyi/JR7heUhu1KgcHdRK8xx5UZWmXm5PNqkltqkE3gIUrudxQbxe3CHFIs0Br2BCUsiiYZT00sMUnzvOUOGlVZG0dImYElchxblcu4lR/FWG4GKdfrMrs4KCghl/8quWxHWTbZAnp9IVpkV5nmta/zBj/ibukSvn28yr3e/ffjYMd\u002BEhfqwjgf7OConZyGqCRxKVfED5a3/F8A/wKUXZtBUQWfiQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-24T18:56:02.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetPlayList.feature",
+              "DocumentMoniker": "D:\\tddbddframeworkwithfitnesse\\Specflow_Api_Spotify_Demo\\Api_Automation_with_specflow\\Api_Automation_with_specflow\\Features\\GetPlayList.feature",
+              "RelativeDocumentMoniker": "Api_Automation_with_specflow\\Features\\GetPlayList.feature",
+              "ToolTip": "D:\\tddbddframeworkwithfitnesse\\Specflow_Api_Spotify_Demo\\Api_Automation_with_specflow\\Api_Automation_with_specflow\\Features\\GetPlayList.feature",
+              "RelativeToolTip": "Api_Automation_with_specflow\\Features\\GetPlayList.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAD4vwcAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQWSURBVDhPdVRLb1tFFP7mPnztaydObOcJcWolhDRpVURQAyWNWgItsGlZ0YoFEgseKxCCFWv4AWzYIxAgQVRVlSo1En1IoDRtSUEpRFWUd9I4DztOff269r18c\u002B0oSRGf9dkzZ2Y\u002BnznnzBH4P3zRGMARXxtHcbKZdMg1uFjCVCmJr9IFzg/Cdd2Dgm\u002BQnylBTISH0Kydhakco0WKGXKZKFDwEfLOJObLV/BN5h42nXxtzYNa\u002BwVeNBScNRPoMs5BNd6FppwUEM8qQmlz4UYBEVGFGhNCtLo6vW5UutGglNDvS8GvZLFc9mT2BF8zWzFgjiCjvwdXDAc1M9JX36MnQp0ia\u002BfQZrbgWEOf8KuGb7OYikARXYjrIXTrj7DjJHG/VJQyVcGYIvC8McwNFzkbUaCorf5mXIifx\u002BmWE1jMrWAwOoC34\u002BcYJuBu\u002Bk95SiEPkRmslZcZglVYrmcEPgqbGPSf4ui04F/XayHYbhl\u002BNYBOM46j4T6ciL2AOtrLtO\u002BDTp7BkH8IH4c9g\u002BZ9G6IPmkj4FX/ombqE\u002BLT3Q6zk1rBgLeO3jdtYyK9gPrcIh\u002B7NZhe8I8RuQp/msJszxhlbVQ\u002BBLrKpgopquzbXBNoDLUjbGUykJykyjzup\u002BxjfuoclXv8JBJj5ZhYVhatxkIiQpu2UsVFMYWLzDyQLG8iWLY9WOYd0aRu2U0LMiKA7lEDMFwWzXj0NBMmYHOwKepCeyW8Zv216Z9kWr\u002BlwEyPLT6PRgJebjuNi51s42TQIkzGuQep44dsVXCctUwugP9yDT3rex6stwzgUiiOshRHW6xE1GuEXfnQE2vFm6wj3fIAIbTXI4k7LQdXnVwIKIuoAX87hfKUokoV13FwfR4f5FE41vQSfZuB49DnPq8cMwZXVa5hgTKcy0yg5JabdHUfaGcWveavq4c38Iubsv1kSy\u002BvFTVxekQcmIT3ua\u002BiBrugIqkGWz2Hv6tfXf8fY2g0vtsQyZu0ZaqTkpOrhbLmIuOZHlx7lM0sUnILuU3TRHmhFzsnhFr3N2DsIaUHMsXymMv\u002BAe1jisijdG7hTuopfrIdSaq85vBOqxxnzdejic1r7afGxLoWqKEJ6ItPiU31MUoXZtinmdZ8k7/wlruV/xvfZDSmz95YXyzYsZw1HjQc8LYu0oeJWZCnVEud6YrTJiRTLkF/jp\u002BxVjLHyi/JR7heUhu1KgcHdRK8xx5UZWmXm5PNqkltqkE3gIUrudxQbxe3CHFIs0Br2BCUsiiYZT00sMUnzvOUOGlVZG0dImYElchxblcu4lR/FWG4GKdfrMrs4KCghl/8quWxHWTbZAnp9IVpkV5nmta/zBj/ibukSvn28yr3e/ffjYMd\u002BEhfqwjgf7OConZyGqCRxKVfED5a3/F8A/wKUXZtBUQWfiQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-24T19:00:33.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "spotifyApiClient.cs",
+              "DocumentMoniker": "D:\\tddbddframeworkwithfitnesse\\Specflow_Api_Spotify_Demo\\Api_Automation_with_specflow\\Api_Automation_with_specflow\\utils\\spotifyApiClient.cs",
+              "RelativeDocumentMoniker": "Api_Automation_with_specflow\\utils\\spotifyApiClient.cs",
+              "ToolTip": "D:\\tddbddframeworkwithfitnesse\\Specflow_Api_Spotify_Demo\\Api_Automation_with_specflow\\Api_Automation_with_specflow\\utils\\spotifyApiClient.cs",
+              "RelativeToolTip": "Api_Automation_with_specflow\\utils\\spotifyApiClient.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAmwDAAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:11:26.448Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
